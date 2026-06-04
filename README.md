@@ -2,7 +2,7 @@
 🌏 I’m a Full stack developer.<br>
 🖥️ I love to create AI applications.<br>
 📚 Currently learning about AI model development.<br>
-💬 Ask me about MERN & Prompt engineering.<br>
+💬 Ask me about Prompt engineering.<br>
 ⚡ Fun fact: I'm an athlete + coder + entrepreneur.
 
 ---
