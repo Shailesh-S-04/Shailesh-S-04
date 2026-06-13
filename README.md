@@ -57,11 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shailesh-S-04&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shailesh-S-04&theme=monokai&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailesh-S-04&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ### HUSTLE || GRIND || CONQUER || VICTORY 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
